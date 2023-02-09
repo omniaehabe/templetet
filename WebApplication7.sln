@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "templet", "WebApplication7\templet.csproj", "{8A040E90-2DF3-4AE2-996C-D33D650BA5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A040E90-2DF3-4AE2-996C-D33D650BA5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A040E90-2DF3-4AE2-996C-D33D650BA5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A040E90-2DF3-4AE2-996C-D33D650BA5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A040E90-2DF3-4AE2-996C-D33D650BA5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151C829E-CE1D-437A-AB14-3A0D1E453735}
+	EndGlobalSection
+EndGlobal
